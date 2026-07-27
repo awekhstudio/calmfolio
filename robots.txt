@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://awekh-studio.github.io/calmfolio/sitemap.xml
+Sitemap: https://awekhstudio.github.io/calmfolio/sitemap.xml
